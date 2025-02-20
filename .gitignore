@@ -37,3 +37,4 @@ wheels/
 *.swp
 *.swo 
 test.ipynb
+run_note.txt
