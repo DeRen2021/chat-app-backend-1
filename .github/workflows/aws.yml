@@ -9,7 +9,7 @@ env:
   ECR_REPOSITORY: chat_app_backend           # 替换为您的 ECR 仓库名称
   ECS_SERVICE: chat-app-backend-service-2        # 替换为您的 ECS 服务名称
   ECS_CLUSTER: chat_app_backend          # 替换为您的 ECS 集群名称
-  CONTAINER_NAME: your-container-name     # 替换为您的容器名称
+  CONTAINER_NAME: chat-backend    # 替换为您的容器名称
 
 permissions:
   contents: read

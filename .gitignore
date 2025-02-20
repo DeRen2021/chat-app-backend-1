@@ -38,3 +38,5 @@ wheels/
 *.swo 
 test.ipynb
 run_note.txt
+
+.DS_Store
